@@ -1,7 +1,9 @@
 ## Bem-vindo(a) ao perfil do Leonardo de Castro Palma.
 
 👨🏽‍💻 - Atualmente procurando emprego em Dev - Front End;
+<br>
 📚 - Estudando TypeScript e React;
+<br>
 😁 - Pronome: He/Ele;
 
   <div>
@@ -23,4 +25,3 @@
     <a href="https://www.linkedin.com/in/leonardocpalma/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
-  ![Snake animation](https://github.com/LeonardocPalma/LeonardocPalma/blob/output/github-contribution-grid-snake.svg)
