@@ -27,12 +27,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeonardocPalma.LeonardocPalma&"  />
-</div>
-
-###
-
 <h1 align="center">Seja bem-vindo👋 Me chamo Leonardo Palma, sou um apaixonado pela programação!</h1>
 
 ###
@@ -45,7 +39,7 @@
 
 ###
 
-<h2 align="left">🛠 Techs</h2>
+<h2 align="left">🛠 Techs Stack</h2>
 
 ###
 
