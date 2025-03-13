@@ -69,7 +69,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=leonardocpalma&show_icons=true&theme=noctis_minimus&include_all_commits=true&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocpalma&layout=compact&theme=noctis_minimus&include_all_commits=true&hide_border=true" height="200" alt="languages graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocpalma&layout=compact&theme=noctis_minimus&include_all_commits=true&hide_border=true" height="180" alt="languages graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardocPalma&radius=16&theme=noctis-minimus&area=true&order=5&hide_border=true" height="297" alt="activity-graph graph"  />
 </div>
 
