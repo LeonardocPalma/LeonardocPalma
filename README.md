@@ -74,7 +74,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/LeonardocPalma/LeonardocPalma/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
