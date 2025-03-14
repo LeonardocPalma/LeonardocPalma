@@ -35,19 +35,24 @@
 
 ###
 
-<p align="left">👨‍💻 Sobre Mim
-Sou formado em Ciência da Computação desde 2019, mas minha trajetória na área de tecnologia começou em 2013, atuando com infraestrutura e suporte. Sempre fui apaixonado por tecnologia, o que me motivou a fazer faculdade na área. Antes da graduação, não tive contato com programação, e por circunstâncias da vida, não pude estagiar na área de desenvolvimento. No entanto, nunca perdi o interesse pela programação. Atualmente, trabalho com infraestrutura e segurança da informação, mas estou me dedicando aos estudos para migrar para a área de desenvolvimento, com foco em Front-End e Full Stack. Adoro desenvolvimento web e estou em busca de oportunidades para atuar nessa área.
+<h4 align="left">👨‍💻 Sobre Mim</h4>
+<p align="left">
+Sou formado em Ciência da Computação desde 2019, mas minha trajetória na área de tecnologia começou em 2013, atuando com infraestrutura e suporte. Sempre fui apaixonado por tecnologia, o que me motivou a fazer faculdade na área. Antes da graduação, não tive contato com programação, e por circunstâncias da vida, não pude estagiar na área de desenvolvimento. No entanto, nunca perdi o interesse pela programação. Atualmente, trabalho com infraestrutura e segurança da informação, mas estou me dedicando aos estudos para migrar para a área de desenvolvimento, com foco em Front-End e Full Stack. Adoro desenvolvimento web e estou em busca de oportunidades para atuar nessa área.</p>
 
-⏳ Recuperando o Tempo Perdido
-Após a faculdade, com o passar dos anos, percebi que minha verdadeira paixão é a programação. Sei que posso ter "perdido tempo", mas agora estou focado em recuperar o tempo perdido e me dedicar ao máximo para realizar essa transição de carreira.
+<h4 align="left">⏳ Recuperando o Tempo Perdido</h4>
+<p align="left">
+Após a faculdade, com o passar dos anos, percebi que minha verdadeira paixão é a programação. Sei que posso ter "perdido tempo", mas agora estou focado em recuperar o tempo perdido e me dedicar ao máximo para realizar essa transição de carreira.</p>
 
-🚀 Foco Atual
-Meu objetivo é atuar como Desenvolvedor Web Front-End ou Full Stack, e no futuro, explorar o desenvolvimento mobile. Estou sempre estudando e me atualizando para alcançar esse objetivo.
+<h4 align="left">🚀 Foco Atual</h4>
+<p align="left">
+Meu objetivo é atuar como Desenvolvedor Web Front-End ou Full Stack, e no futuro, explorar o desenvolvimento mobile. Estou sempre estudando e me atualizando para alcançar esse objetivo.</p>
 
-🙏 Fora do Mundo Tech
-Sou evangélico, temente a Deus, e acredito que a fé é uma parte essencial da minha vida. Adoro cantar e, nos momentos de lazer, curto jogar no computador para relaxar e me divertir.
+<h4 align="left">🙏 Fora do Mundo Tech</h4>
+<p align="left">
+Sou evangélico, temente a Deus, e acredito que a fé é uma parte essencial da minha vida. Adoro cantar e, nos momentos de lazer, curto jogar no computador para relaxar e me divertir.</p>
 
-💍 Família
+<h4 align="left">💍 Família</h4>
+<p align="left">
 Sou casado e tenho o apoio total da minha esposa, que é minha maior incentivadora em todos os meus projetos e sonhos.</p>
 
 ###
