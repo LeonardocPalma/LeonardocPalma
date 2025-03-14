@@ -35,7 +35,20 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">👨‍💻 Sobre Mim
+Sou formado em Ciência da Computação desde 2019, mas minha trajetória na área de tecnologia começou em 2013, atuando com infraestrutura e suporte. Sempre fui apaixonado por tecnologia, o que me motivou a fazer faculdade na área. Antes da graduação, não tive contato com programação, e por circunstâncias da vida, não pude estagiar na área de desenvolvimento. No entanto, nunca perdi o interesse pela programação. Atualmente, trabalho com infraestrutura e segurança da informação, mas estou me dedicando aos estudos para migrar para a área de desenvolvimento, com foco em Front-End e Full Stack. Adoro desenvolvimento web e estou em busca de oportunidades para atuar nessa área.
+
+⏳ Recuperando o Tempo Perdido
+Após a faculdade, com o passar dos anos, percebi que minha verdadeira paixão é a programação. Sei que posso ter "perdido tempo", mas agora estou focado em recuperar o tempo perdido e me dedicar ao máximo para realizar essa transição de carreira.
+
+🚀 Foco Atual
+Meu objetivo é atuar como Desenvolvedor Web Front-End ou Full Stack, e no futuro, explorar o desenvolvimento mobile. Estou sempre estudando e me atualizando para alcançar esse objetivo.
+
+🙏 Fora do Mundo Tech
+Sou evangélico, temente a Deus, e acredito que a fé é uma parte essencial da minha vida. Adoro cantar e, nos momentos de lazer, curto jogar no computador para relaxar e me divertir.
+
+💍 Família
+Sou casado e tenho o apoio total da minha esposa, que é minha maior incentivadora em todos os meus projetos e sonhos.</p>
 
 ###
 
